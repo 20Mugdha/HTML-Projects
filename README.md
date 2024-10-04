@@ -1,1 +1,2 @@
+<h1>Html Projects Repository</h1>
 This repository contains a diverse collection of HTML projects designed for both beginner and intermediate developers. The projects aim to reinforce fundamental concepts and encourage hands-on learning, allowing you to practice various HTML techniques and features. Whether you’re just starting out or looking to build on your existing skills, you’ll find valuable resources to enhance your web development journey.
